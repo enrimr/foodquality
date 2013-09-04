@@ -32,18 +32,18 @@
 }
 
 .data {
-    margin-top: 2px;
-    height: 60%;
+    margin-top: 2%;
+    height: 56%;
 }
 
 .body {
     background-color: #dddddd;
-    padding: 11px;
+    padding: 4%;
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
 }
 
 .header {
-    height: 20%;
+    height: 18%;
 }
 
 .header p {
@@ -51,7 +51,7 @@
 }
 
 .vote {
-    height: 20%;
+    height: 18%;
 }
 .vote .notselected {
     filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
